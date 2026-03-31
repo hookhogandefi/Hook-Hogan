@@ -1,0 +1,75 @@
+# Hook Hogan 🐟
+
+**Fair DeFi for Small Liquidity Providers**
+
+---
+
+Into DeFi?
+Tired of liquidity pools out of range?
+What about getting stuck in the weakest token?
+Say no more.
+
+**Hook Hogan is coming — with your help!**
+
+What if a full-range pool could earn fees like a max-concentration pool?
+
+---
+
+## My Story
+
+I'm a sardine tired of losing money when my liquidity pools go off range. And full-range pool fees are the worst.
+
+So I thought — what if I could create a full-range pool but at the same time earn fees like a concentrated one?
+
+And yes, PancakeSwap allows me to build this dream using hooks.
+
+Hook Hogan replaces AMM bonding rules, changing the game completely.
+
+---
+
+## Features
+
+All pools using Hook Hogan will have:
+
+- **Oracle pricing** based on each token — highly resilient against MEV
+- **Auto-setup fees** according to token categories and token volatility
+- **Full range** — never worry about pool inactivity again
+- **Auto-balanced inventory** — always holding more of the strongest token
+- **Virtual concentration** — Hook Hogan makes your pool work as a super concentrated liquidity pool. More fees earned
+- **Flexible deposits** — add tokens in any ratio
+
+What does all this mean?
+
+**Just set it and forget it.**
+
+---
+
+## Funding Roadmap
+
+Your sponsorship will help me develop the public version of Hook Hogan and get it audited for PancakeSwap whitelisting.
+
+| Milestone | Description | Cost | Status |
+|-----------|-------------|------|--------|
+| 1 | Rebuild smart contract for public use — any user can create pools | $17,000 | 🔨 In progress |
+| 2 | Security audit by independent firm | $15,000 - $20,000, or more| ⏳ Pending funding |
+| 3 | PancakeSwap whitelisting submission, deployment and testing | $5,000 | ⏳ Pending |
+| **Total** | | **$37,000 - $42,000** | |
+
+---
+
+## How to Help
+
+🐟 **Donate on Giveth**: [coming soon]
+
+Every dollar helps a sardine fight the whales.
+
+---
+
+## Links
+
+- **PancakeSwap Infinity**: [pancakeswap.finance](https://pancakeswap.finance)
+- **Twitter/X**: [@hookhogandefi](https://x.com/hookhogandefi)
+
+---
+
+Made by a sardine to help sardines. 🐟
